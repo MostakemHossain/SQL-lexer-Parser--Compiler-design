@@ -7,3 +7,7 @@
     name TEXT,
     email TEXT
 );
+6.INSERT INTO ProgramOutcomes (PO_ID, Justification)
+VALUES ('PO1', 'Demonstrated problem-solving via SQL parser.');
+7.INSERT INTO ProgramOutcomes (PO_ID, Justification)
+VALUES ('PO2', 'Applied CFG and lexical analysis in parser.');
