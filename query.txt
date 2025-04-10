@@ -1,0 +1,9 @@
+1.SELECT * FROM users WHERE name LIKE '%John%';
+2.SELECT * FROM users LIMIT 5;
+3.SELECT * FROM users ORDER BY name ASC;
+4.SELECT * FROM users;
+5.CREATE TABLE users (
+    id INT PRIMARY KEY,
+    name TEXT,
+    email TEXT
+);
